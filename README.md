@@ -1,4 +1,4 @@
-# evenOdd
+
 [![Build Status](http://localhost:8080/buildStatus/icon?job=libraries)](http://localhost:8080/job/libraries/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
